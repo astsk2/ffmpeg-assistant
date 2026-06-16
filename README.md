@@ -19,6 +19,8 @@
 
 <!-- ГЛАВНЫЙ СКРИНШОТ — залей screenshot.png в корень репо -->
 <img src="screenshot.png" alt="FFmpeg Assistant — главный экран" width="820"/>
+<img src="https://github.com/user-attachments/assets/1f98a52a-3121-4ba7-8cb0-6fb1488785e2" alt="FFmpeg Assistant — главный экран" width="820"/>
+
 
 </div>
 
