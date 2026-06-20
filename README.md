@@ -9,10 +9,10 @@
 
 <br/>
 
-### ⬇️ [**Скачать последнюю версию**](https://github.com/astsk2/ffmpeg-assistant-releases/releases/latest) &nbsp;·&nbsp; 🪟 Windows &nbsp;·&nbsp; 🍎 macOS
+### ⬇️ [**Скачать последнюю версию**](https://github.com/astsk2/ffmpeg-assistant/releases/latest) &nbsp;·&nbsp; 🪟 Windows &nbsp;·&nbsp; 🍎 macOS
 
-[![Latest release](https://img.shields.io/github/v/release/astsk2/ffmpeg-assistant-releases?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=854F0B&style=for-the-badge)](https://github.com/astsk2/ffmpeg-assistant-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/astsk2/ffmpeg-assistant-releases/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=3B6D11&style=for-the-badge)](https://github.com/astsk2/ffmpeg-assistant-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/astsk2/ffmpeg-assistant?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=854F0B&style=for-the-badge)](https://github.com/astsk2/ffmpeg-assistant/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/astsk2/ffmpeg-assistant/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=3B6D11&style=for-the-badge)](https://github.com/astsk2/ffmpeg-assistant/releases)
 ![Platforms](https://img.shields.io/badge/Windows_·_macOS-нативно-0F6E56?style=for-the-badge)
 
 <br/>
@@ -76,7 +76,7 @@
 
 ## 📥 Скачать и установить
 
-Откройте **[последний релиз](https://github.com/astsk2/ffmpeg-assistant-releases/releases/latest)** и скачайте файл под вашу систему:
+Откройте **[последний релиз](https://github.com/astsk2/ffmpeg-assistant/releases/latest)** и скачайте файл под вашу систему:
 
 | ОС | Файл |
 |---|---|
