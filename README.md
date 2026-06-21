@@ -89,25 +89,25 @@
 
 ## 🛡️ Безопасность файла
 
-<!-- Хэш и ссылка VirusTotal относятся к КОНКРЕТНОЙ версии установщика (v1.0.3).
+<!-- Хэш и ссылка VirusTotal относятся к КОНКРЕТНОЙ версии установщика (v1.0.9).
      На каждом новом релизе обнови SHA-256 и ссылку под новый файл. -->
 
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-1%2F69%20ML%20false--positive-3B6D11?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/0d2dba98334cd52e928747f25366834538ed3f0e7e2d9abc62dd410e2b355052)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-1%2F67%20ML%20false--positive-3B6D11?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/228423bf669de379734a4bbebc6f0138260606e4c1472c242c78457675a1dc79)
 ![Sandbox](https://img.shields.io/badge/Sandbox-no%20network%20%C2%B7%20no%20threats-0F6E56?style=for-the-badge)
 
-Установщик прогнан через **VirusTotal**: из 69 антивирусов угрозу «увидел» только один
+Установщик прогнан через **VirusTotal**: из 67 антивирусов угрозу «увидел» только один
 (`Trapmine: Suspicious.low.ml.score`) — это **низкоуверенная ML-эвристика** на неподписанный
 установщик, то есть **ложное срабатывание**. Все крупные движки (Microsoft, Kaspersky, ESET,
 Acronis, AhnLab…) — чисто; поведенческий анализ в песочнице — **без обращений в сеть и без
 угроз** (приложение полностью офлайн, как и заявлено).
 
-**SHA-256** · `FFmpeg-Assistant_1.0.3_x64-setup.exe`:
+**SHA-256** · `FFmpeg-Assistant_1.0.9_x64-setup.exe`:
 
 ```
-0d2dba98334cd52e928747f25366834538ed3f0e7e2d9abc62dd410e2b355052
+228423bf669de379734a4bbebc6f0138260606e4c1472c242c78457675a1dc79
 ```
 
-🔗 **[Полный отчёт VirusTotal →](https://www.virustotal.com/gui/file/0d2dba98334cd52e928747f25366834538ed3f0e7e2d9abc62dd410e2b355052)**
+🔗 **[Полный отчёт VirusTotal →](https://www.virustotal.com/gui/file/228423bf669de379734a4bbebc6f0138260606e4c1472c242c78457675a1dc79)**
 
 > ℹ️ Программа пока **не подписана** сертификатом издателя, поэтому Windows SmartScreen может
 > показать «неизвестный издатель» — это про **подпись**, а не про вирусы. Запуск:
